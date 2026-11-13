@@ -1,0 +1,114 @@
+{
+  "_note": "Teaching record. Modality at UNL is face-to-face with asynchronous Canvas components. Never claim fully online teaching.",
+  "_last_updated": "2026-11-13",
+  "unl": {
+    "note": "All UNL courses are face-to-face with asynchronous Canvas components (discussion boards, readings, and assignments).",
+    "courses": [
+      {
+        "code": "TEAC 317",
+        "title": "Teaching English Language Learners in Content Areas",
+        "level": "Undergraduate",
+        "role": "Teaching Assistant / Instructor",
+        "terms": "F2022, S2023, F2023, S2024, S2025, F2026"
+      },
+      {
+        "code": "TEAC 330",
+        "title": "Multicultural Education",
+        "level": "Undergraduate",
+        "role": "Teaching Assistant / Instructor",
+        "terms": "F2023, S2024, F2026"
+      },
+      {
+        "code": "TEAC 413K",
+        "title": "Linguistics for the Language Teacher",
+        "level": "Graduate",
+        "role": "Teaching apprenticeship",
+        "terms": "F2022"
+      },
+      {
+        "code": "TEAC 413M / 813M",
+        "title": "Teaching English Language Learners in Content Areas (Secondary)",
+        "level": "Graduate (413M: Master's; 813M: primarily doctoral)",
+        "role": "Instructor of record",
+        "terms": "F2024"
+      },
+      {
+        "code": "TEAC 403A",
+        "title": "Student Teaching Seminar",
+        "level": "Undergraduate",
+        "role": "Teaching apprenticeship, part of a teaching team",
+        "terms": "S2026"
+      }
+    ]
+  },
+  "other_university": [
+    {
+      "institution": "Dakar Institute of Technology (DIT)",
+      "courses": [
+        {
+          "title": "English for Technology (AI)",
+          "period": "2021–Present"
+        },
+        {
+          "title": "English for Business Negotiation",
+          "period": "2021–Present"
+        }
+      ]
+    },
+    {
+      "institution": "Dakar American University of Science and Technology (DAUST), Somone, Senegal",
+      "courses": [
+        {
+          "title": "English for Professional Purposes",
+          "period": "2020–2022",
+          "department": "Department of English for Professional Purposes (DEPP)"
+        }
+      ]
+    },
+    {
+      "institution": "American Institute for English Language and Entrepreneurship (AIELE), Thiès, Senegal",
+      "courses": [
+        {
+          "title": "English for Professionals",
+          "period": "2020–2021"
+        }
+      ]
+    },
+    {
+      "institution": "University of North Carolina at Chapel Hill",
+      "courses": [
+        {
+          "title": "Wolof Language and Culture",
+          "period": "Fall 2019–Spring 2020",
+          "note": "Fulbright FLTA appointment, Department of African, African-American and Diaspora Studies (AAAD)"
+        }
+      ]
+    },
+    {
+      "institution": "Université Numérique–Cheikh Hamidou Kane (UNCHK), Senegal",
+      "courses": [
+        {
+          "title": "Linguistics & Language Structure, Research & Writing, Translation & Language Skills, African Languages & Culture",
+          "period": "2016–Present",
+          "note": "Also served as coach for the institution's first Master's thesis student in Linguistics (thesis: 'Language Policy in the Senegalese Education System: The Case of Secondary Schools'), at the program coordinator's request."
+        }
+      ]
+    }
+  ],
+  "secondary": {
+    "period": "October 2015–August 2022",
+    "positions": [
+      {
+        "institution": "Lycée d'Enseignement Technique et de Formation Professionnelle François Xavier Ndione, Thiès, Senegal",
+        "title": "English Teacher (Permanent), Technical and Vocational Education",
+        "period": "2017–August 2022"
+      },
+      {
+        "institution": "Lycée Sinthiou Garba, Matam, Senegal",
+        "title": "English Teacher (Permanent), Ministry of Education",
+        "period": "October 2015–2017",
+        "note": "English Club Coordinator"
+      }
+    ]
+  }
+}

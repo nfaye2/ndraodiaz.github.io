@@ -1,0 +1,42 @@
+{
+  "_note": "Critical AI Literacy activities only. Do not claim established AI expertise, funded project, published AI paper, or technical/programming skills.",
+  "_last_updated": "2026-11-13",
+  "description": "Critical AI literacy is a developing research direction that extends my work on multilingual and decolonial pedagogies. It draws on the same questions I bring to language-in-education policy: who determines what counts as knowledge, in whose language, and through whose tools. The four activities below represent the documented scope of this work to date.",
+  "activities": [
+    {
+      "id": "dit-ai",
+      "type": "Teaching",
+      "title": "Instructor of English for Technology (AI)",
+      "institution": "Dakar Institute of Technology (DIT)",
+      "period": "2021–Present",
+      "status": "Ongoing"
+    },
+    {
+      "id": "jlr-genai",
+      "type": "Manuscript",
+      "authors": "Kiramba, L. K., Banks Noon, M., Aiyeola, A., & Faye, N.",
+      "title": "Culturally Sustaining Literacy in the Age of Gen-AI: Emerging Critical AI Literacy in Multilingual Children",
+      "venue": "Journal of Literacy Research (JLR)",
+      "status": "Submitted",
+      "date": "July 2026"
+    },
+    {
+      "id": "midtesol-ai",
+      "type": "Conference presentation",
+      "authors": "Faye, N., Banks Noon, M., Kiramba, L. K., & Aiyeola, A.",
+      "title": "Developing Critical AI Literacy Through Culturally Sustaining Pedagogy",
+      "venue": "MIDTESOL Annual Conference, Johnson County Community College, Overland Park, Kansas",
+      "status": "Presented",
+      "date": "October 2026"
+    },
+    {
+      "id": "nctear-ai",
+      "type": "Conference proposal",
+      "authors": "Kiramba, L. K., Banks Noon, M., Aiyeola, A., & Faye, N.",
+      "title": "Culturally Sustaining Literacy in the Age of Gen-AI: Emerging Critical AI Literacy in Multilingual Children",
+      "venue": "National Council of Teachers of English Assembly for Research (NCTEAR 2027)",
+      "status": "Proposal submitted",
+      "date": "2027"
+    }
+  ]
+}

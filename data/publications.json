@@ -1,0 +1,80 @@
+{
+  "_note": "Single source of truth for publications. Update status/date here only. Do not add items without documentary evidence.",
+  "_last_updated": "2026-11-13",
+  "forthcoming": [
+    {
+      "id": "decoloniser-2026",
+      "authors": "Faye, N.",
+      "title": "Décoloniser l'éducation au Sénégal : une critique épistémique de l'introduction précoce de l'anglais dans un système scolaire postcolonial",
+      "title_en": "Decolonizing Education in Senegal: An Epistemic Critique of the Early Introduction of English in a Postcolonial School System",
+      "venue": "Revue 3SA",
+      "status": "Forthcoming",
+      "language": "fr"
+    }
+  ],
+  "under_review": [
+    {
+      "id": "cilp-symbolic-2026",
+      "authors": "Faye, N.",
+      "title": "Symbolic Inclusion, Functional Exclusion, and the Early Introduction of English: Competing Language-in-Education Policy Trajectories in Senegal",
+      "venue": "Current Issues in Language Planning (CILP)",
+      "status": "Under review",
+      "submitted": "Late August 2026"
+    },
+    {
+      "id": "jlr-arabic-2026",
+      "authors": "Faye, N.",
+      "title": "Community Cultural Wealth as a Resource for Arabic Literacy Learning: An Indigenous Pedagogy from Senegal",
+      "venue": "Journal of Literacy Research (JLR)",
+      "status": "Under review (awaiting reviewer selection)",
+      "submitted": "2026"
+    }
+  ],
+  "submitted": [
+    {
+      "id": "mcs-gatekeeper-2026",
+      "authors": "Faye, N.",
+      "title": "The Silence of the Gatekeeper: Hegemonic Power, Digital Counter-Publics, and the Cultural Politics of State Broadcasting in Senegal",
+      "venue": "Media, Culture & Society",
+      "status": "Submitted",
+      "submitted": "August 20, 2026"
+    },
+    {
+      "id": "jlr-genai-2026",
+      "authors": "Kiramba, L. K., Banks Noon, M., Aiyeola, A., & Faye, N.",
+      "title": "Culturally Sustaining Literacy in the Age of Gen-AI: Emerging Critical AI Literacy in Multilingual Children",
+      "venue": "Journal of Literacy Research (JLR)",
+      "status": "Submitted",
+      "submitted": "July 2026",
+      "ai_work": true
+    }
+  ],
+  "in_preparation": [
+    {
+      "id": "cds-multimodal-2026",
+      "authors": "Faye, N.",
+      "title": "Multimodal Discourse as a Site of Ideological Struggle: Legitimation, Resistance, and the Semiotic Construction of Political Actors in the Senegalese Press",
+      "venue": "Critical Discourse Studies (CDS)",
+      "status": "In preparation — ready for submission",
+      "note": "September 2026"
+    },
+    {
+      "id": "cje-epistemic-2026",
+      "authors": "Faye, N.",
+      "title": "Au-delà de la réforme des curricula : refonder l'architecture épistémique des systèmes éducatifs postcoloniaux",
+      "title_en": "Beyond Curriculum Reform: Rethinking the Epistemic Architecture of Postcolonial Education Systems",
+      "venue": "Canadian Journal of Education / Revue canadienne de l'éducation",
+      "status": "In preparation — ready for submission",
+      "note": "September 2026",
+      "language": "fr"
+    },
+    {
+      "id": "waar-chapter-2026",
+      "authors": "Faye, N.",
+      "title": "Decolonizing English Language Education in Senegal through Ubuntu Translanguaging Theory and the Sankofa Principle",
+      "venue": "Book chapter, edited volume (3rd International Conference of WAAR, Decolonization through Language & Literature)",
+      "status": "In preparation",
+      "note": "Full paper due August 30, 2026"
+    }
+  ]
+}

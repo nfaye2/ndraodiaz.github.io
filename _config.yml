@@ -1,0 +1,13 @@
+# GitHub Pages configuration
+# No Jekyll processing needed — plain HTML site.
+# This file tells GitHub Pages to use the root as the site root.
+
+title: Ndrao Faye
+description: Applied Linguist · Discourse Analyst · Multilingual Education Practitioner
+url: "https://ndraodiaz.github.io"
+
+# Exclude data files from Jekyll processing
+exclude:
+  - data/
+  - "*.json"
+  - README.md
