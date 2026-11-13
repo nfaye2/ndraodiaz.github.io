@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ndrao Faye — Applied Linguist</title>
+  <meta name="description" content="Ndrao Faye (King) is a doctoral candidate in applied linguistics whose research centers on language-in-education policy, translanguaging, and decolonial pedagogy, with Senegal as the empirical anchor.">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="profile">
+  <meta property="og:title" content="Ndrao Faye — Applied Linguist & Multilingual Education Practitioner">
+  <meta property="og:description" content="Doctoral candidate at the University of Nebraska–Lincoln and Université Cheikh Anta Diop de Dakar. Research: language-in-education policy, translanguaging, decolonial pedagogy, critical discourse analysis.">
+  <meta property="og:url" content="https://ndraofaye.github.io/">
+
+  <!-- Schema.org Person -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Ndrao Faye",
+    "alternateName": "King",
+    "jobTitle": "Doctoral Candidate & Applied Linguist",
+    "affiliation": [
+      { "@type": "Organization", "name": "University of Nebraska–Lincoln" },
+      { "@type": "Organization", "name": "Université Cheikh Anta Diop de Dakar" }
+    ],
+    "email": "nfaye2@huskers.unl.edu",
+    "sameAs": ["https://orcid.org/0009-0002-1314-7418"]
+  }
+  </script>
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="site-name" href="index.html">Ndrao Faye</a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a class="nav-link" href="index.html" aria-current="page">Home</a>
+        <a class="nav-link" href="pages/research.html">Research</a>
+        <a class="nav-link" href="pages/publications.html">Publications</a>
+        <a class="nav-link" href="pages/presentations.html">Presentations</a>
+        <a class="nav-link" href="pages/teaching.html">Teaching</a>
+        <a class="nav-link" href="pages/service.html">Service</a>
+        <a class="nav-link" href="pages/cv.html">CV</a>
+      </nav>
+      <button class="theme-btn" id="themeBtn" aria-label="Toggle dark mode">Dark</button>
+    </div>
+  </header>
+
+  <main id="main">
+    <div class="site-wrap">
+
+      <!-- ═══ HERO: two-column layout ═══ -->
+      <section class="hero">
+        <div class="hero-columns">
+
+          <!-- Left: bio -->
+          <div class="hero-left">
+            <p class="hero-name">Ndrao Faye</p>
+            <p class="hero-title">Applied Linguist · Discourse Analyst · Multilingual Education Practitioner</p>
+
+            <div class="hero-bio">
+              <p>My research examines how language-in-education policy is enacted, contested, and transformed in postcolonial multilingual contexts, with Senegal as the consistent empirical anchor. I bring together translanguaging theory, decolonial pedagogies, and critical discourse analysis to study the gap between what language policy says and what teachers and learners actually do.</p>
+              <p>I am completing two doctoral programs concurrently at the University of Nebraska–Lincoln and Université Cheikh Anta Diop de Dakar.</p>
+            </div>
+
+            <div class="cta-row">
+              <a class="btn btn-primary" href="pages/cv.html">Curriculum Vitae</a>
+              <a class="btn btn-secondary" href="mailto:nfaye2@huskers.unl.edu">Email</a>
+              <a class="btn btn-secondary" href="https://orcid.org/0009-0002-1314-7418" target="_blank" rel="noopener">ORCID</a>
+            </div>
+          </div>
+
+          <!-- Right: profile card (Mario Wiki-inspired) -->
+          <aside class="profile-card" aria-label="Profile summary">
+            <div class="profile-card-header">
+              <span class="profile-card-name">Ndrao Faye</span>
+              <span class="profile-card-alias">King</span>
+            </div>
+
+            <dl class="profile-card-body">
+              <div class="profile-row">
+                <dt>Role</dt>
+                <dd>Doctoral Candidate</dd>
+              </div>
+              <div class="profile-row">
+                <dt>UNL Program</dt>
+                <dd>Teaching, Curriculum &amp; Learning<br><span class="profile-sub">Educational Studies</span></dd>
+              </div>
+              <div class="profile-row">
+                <dt>UCAD Program</dt>
+                <dd>English &amp; African Linguistics<br><span class="profile-sub">LiGAA</span></dd>
+              </div>
+              <div class="profile-row">
+                <dt>UNL Advisor</dt>
+                <dd>Prof. Lydiah Kiramba</dd>
+              </div>
+              <div class="profile-row">
+                <dt>UCAD Advisor</dt>
+                <dd>Prof. Mbacké Diagne</dd>
+              </div>
+              <div class="profile-row">
+                <dt>ORCID</dt>
+                <dd><a href="https://orcid.org/0009-0002-1314-7418" target="_blank" rel="noopener" class="profile-link">0009-0002-1314-7418</a></dd>
+              </div>
+              <div class="profile-row">
+                <dt>Contact</dt>
+                <dd><a href="mailto:nfaye2@huskers.unl.edu" class="profile-link">nfaye2@huskers.unl.edu</a></dd>
+              </div>
+              <div class="profile-row">
+                <dt>UNL Status</dt>
+                <dd><span class="chip chip-forthcoming">ABD · Expected May 2027</span></dd>
+              </div>
+              <div class="profile-row">
+                <dt>UCAD Status</dt>
+                <dd><span class="chip chip-submitted">Expected Dec 2026</span></dd>
+              </div>
+              <div class="profile-row profile-row--langs">
+                <dt>Languages</dt>
+                <dd>
+                  <span class="lang-pill">Wolof</span>
+                  <span class="lang-pill">French</span>
+                  <span class="lang-pill">English</span>
+                  <span class="lang-pill">Arabic</span>
+                  <span class="lang-pill">Spanish</span>
+                </dd>
+              </div>
+            </dl>
+          </aside>
+
+        </div><!-- .hero-columns -->
+
+        <!-- Doctoral programs detail (below the two-column) -->
+        <div class="doctoral-programs">
+          <div class="doctoral-item">
+            <span class="doctoral-label">PhD — University of Nebraska–Lincoln</span>
+            <strong>Empowering Multilingual Learners through Translanguaging Pedagogy in Senegalese English Classrooms: A Critical Single-Case Study</strong><br>
+            Advisor: Prof. Lydiah Kiramba · Expected May 2027
+          </div>
+          <div class="doctoral-item">
+            <span class="doctoral-label">Doctoral Candidate — Université Cheikh Anta Diop de Dakar</span>
+            <strong>Communicative Language Teaching (CLT) Policy Enactment in Multilingual Senegalese Secondary Schools: An Integrated Multi-Level Qualitative Study</strong><br>
+            Advisor: Prof. Mbacké Diagne · Expected December 2026
+          </div>
+        </div>
+      </section>
+
+      <!-- ═══ RESEARCH ═══ -->
+      <section aria-labelledby="research-h2">
+        <h2 id="research-h2"><span class="section-label">Research</span></h2>
+        <p>My work sits at the intersection of language policy, translanguaging theory, and critical discourse analysis. See the <a href="pages/research.html">Research page</a> for a full description of themes, dissertations, and frameworks.</p>
+        <p><a href="pages/research.html#ai">Critical AI Literacy</a> — a developing research direction linking my multilingual and decolonial work to questions of generative AI in education.</p>
+      </section>
+
+      <!-- ═══ RECENT & UPCOMING ═══ -->
+      <section aria-labelledby="recent-h2">
+        <h2 id="recent-h2"><span class="section-label">Recent &amp; Upcoming</span></h2>
+
+        <div class="pub-entry">
+          <div class="pub-authors">Faye, N.</div>
+          <div class="pub-title">Symbolic Inclusion, Functional Exclusion, and the Early Introduction of English: Competing Language-in-Education Policy Trajectories in Senegal</div>
+          <div class="pub-venue"><em>Current Issues in Language Planning</em></div>
+          <div class="pub-meta"><span class="chip chip-review">Under review</span><span class="pub-date">Submitted late August 2026</span></div>
+        </div>
+
+        <div class="pub-entry">
+          <div class="pub-authors">Kiramba, L. K., Banks Noon, M., Aiyeola, A., &amp; Faye, N.</div>
+          <div class="pub-title">Culturally Sustaining Literacy in the Age of Gen-AI: Emerging Critical AI Literacy in Multilingual Children</div>
+          <div class="pub-venue"><em>Journal of Literacy Research</em></div>
+          <div class="pub-meta"><span class="chip chip-submitted">Submitted</span><span class="pub-date">July 2026</span><span class="ai-tag">AI literacy</span></div>
+        </div>
+
+        <div class="pub-entry">
+          <div class="pub-authors">Faye, N.</div>
+          <div class="pub-title">Decolonizing Language and Knowledge in the Global South: A Transregional Framework for Education Policy</div>
+          <div class="pub-venue">LASAAfrica 2026 Hybrid Congress · Dakar, Senegal</div>
+          <div class="pub-meta"><span class="chip chip-presented">Presented</span><span class="pub-date">November 4–7, 2026</span></div>
+        </div>
+
+        <p style="margin-top:1rem"><a href="pages/publications.html">All publications and manuscripts →</a> &nbsp;·&nbsp; <a href="pages/presentations.html">All presentations →</a></p>
+      </section>
+
+      <!-- ═══ FELLOWSHIPS & AWARDS ═══ -->
+      <section aria-labelledby="awards-h2">
+        <h2 id="awards-h2"><span class="section-label">Fellowships &amp; Awards</span></h2>
+        <ul class="award-list">
+          <li><span class="award-name">Donald McCurdy Fellowship in Science Education Fund</span> — University of Nebraska–Lincoln, 2026</li>
+          <li><span class="award-name">Fulbright Foreign Language Teaching Assistant (FLTA) Program</span> — U.S. Department of State, 2019–2020 · University of North Carolina at Chapel Hill</li>
+          <li><span class="award-name">Othmer Fellowship</span> — University of Nebraska–Lincoln, 2022–2023, 2023–2024, 2024–2025</li>
+          <li><span class="award-name">Rosalie W. Farley Scholarship</span> — University of Nebraska–Lincoln, 2024</li>
+          <li><span class="award-name">Fern E. Hay Memorial Fellowship in Elementary Education</span> — University of Nebraska–Lincoln, 2024</li>
+          <li><span class="award-name">O.W., Robert and Olga Kopp Memorial Fellowship</span> — University of Nebraska–Lincoln, 2023</li>
+          <li><span class="award-name">Culver Fellowship</span> — University of Nebraska–Lincoln, 2022</li>
+          <li><span class="award-name">Chevening Scholarship</span> — Conditional Selection, 2021/22 (SNCV-2021-450; declined)</li>
+        </ul>
+      </section>
+
+    </div><!-- .site-wrap -->
+  </main>
+
+  <footer class="site-footer" style="max-width:820px;margin:0 auto;padding-left:max(1.5rem, env(safe-area-inset-left,0px));padding-right:max(1.5rem, env(safe-area-inset-right,0px))">
+    <span>© 2026 Ndrao Faye · Last updated November 2026</span>
+    <div class="footer-links">
+      <a href="mailto:nfaye2@huskers.unl.edu">Email</a>
+      <a href="https://orcid.org/0009-0002-1314-7418" target="_blank" rel="noopener">ORCID</a>
+      <a href="pages/cv.html">CV</a>
+    </div>
+  </footer>
+
+  <script>
+    // Theme toggle with localStorage
+    const btn = document.getElementById('themeBtn');
+    const root = document.documentElement;
+    const stored = (() => { try { return localStorage.getItem('theme'); } catch(e) { return null; } })();
+    if (stored) { root.dataset.theme = stored; btn.textContent = stored === 'dark' ? 'Light' : 'Dark'; }
+    btn.addEventListener('click', () => {
+      const next = root.dataset.theme === 'dark' ? 'light' : 'dark';
+      root.dataset.theme = next;
+      btn.textContent = next === 'dark' ? 'Light' : 'Dark';
+      try { localStorage.setItem('theme', next); } catch(e) {}
+    });
+  </script>
+</body>
+</html>
