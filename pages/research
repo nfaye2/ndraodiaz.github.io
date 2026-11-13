@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Research — Ndrao Faye</title>
+  <meta name="description" content="Research themes, dissertations, frameworks, and instruments — Ndrao Faye, applied linguist at UNL and UCAD.">
+  <meta property="og:title" content="Research — Ndrao Faye">
+  <meta property="og:description" content="Language-in-education policy, translanguaging and decolonial pedagogy, critical discourse analysis — with Senegal as the empirical anchor.">
+  <link rel="stylesheet" href="../css/style.css">
+  <style>
+    /* Research — Forest Green */
+    :root {
+      --accent:   #1A6B3C;
+      --accent2:  #A0522D;
+      --hero-bg:  #0D3D22;
+      --hero-fg:  #E8F5EE;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]) { --accent: #4DC48A; --accent2: #D4834A; }
+    }
+    :root[data-theme="dark"] { --accent: #4DC48A; --accent2: #D4834A; }
+    .nav-link:hover, .nav-link[aria-current="page"] { background: rgba(26,107,60,.12); }
+    .nav-link[aria-current="page"] { color: var(--accent); }
+    .theme-card { border-top-color: var(--accent); }
+    .theme-card h3 { color: var(--accent); }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="site-name" href="../index.html">Ndrao Faye</a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a class="nav-link" href="../index.html">Home</a>
+        <a class="nav-link" href="research.html" aria-current="page">Research</a>
+        <a class="nav-link" href="publications.html">Publications</a>
+        <a class="nav-link" href="presentations.html">Presentations</a>
+        <a class="nav-link" href="teaching.html">Teaching</a>
+        <a class="nav-link" href="service.html">Service</a>
+        <a class="nav-link" href="cv.html">CV</a>
+      </nav>
+      <button class="theme-btn" id="themeBtn" aria-label="Toggle dark mode">Dark</button>
+    </div>
+  </header>
+
+  <main id="main">
+    <div class="site-wrap">
+      <div class="page-hero">
+        <h1 class="page-title">Research</h1>
+      </div>
+
+      <!-- Research Themes -->
+      <section aria-labelledby="themes-h2">
+        <h2 id="themes-h2">Research Themes</h2>
+        <div class="theme-grid">
+          <div class="theme-card">
+            <h3>Language-in-Education Policy</h3>
+            <p>I study how language policies are written, mediated through institutions, and enacted — or resisted — in classrooms. My work documents the gap between official policy and lived practice in Senegalese secondary and higher education, drawing on macro–meso–micro analytical frameworks and institutional ethnography.</p>
+          </div>
+          <div class="theme-card">
+            <h3>Translanguaging &amp; Decolonial Pedagogy</h3>
+            <p>I apply Ubuntu Translanguaging Theory and the Sankofa Principle to theorize and document how multilingual learners and teachers draw on their full linguistic repertoires as a resource rather than a deficit. This work intersects with decolonial critiques of monolingual schooling in postcolonial contexts.</p>
+          </div>
+          <div class="theme-card">
+            <h3>Critical &amp; Multimodal Discourse Analysis</h3>
+            <p>I use critical discourse analysis and multimodal methods to examine how political actors, media institutions, and education policy texts construct and contest ideological positions. Current projects analyze the Senegalese press and state broadcasting as sites of ideological struggle.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Dissertations -->
+      <section aria-labelledby="diss-h2">
+        <h2 id="diss-h2">Dissertations</h2>
+
+        <div class="instrument" style="border-left-color: var(--accent2);">
+          <div class="instrument-name">Empowering Multilingual Learners through Translanguaging Pedagogy in Senegalese English Classrooms: A Critical Single-Case Study</div>
+          <div class="instrument-desc">
+            University of Nebraska–Lincoln · Department of Teaching, Learning and Teacher Education<br>
+            Advisor: Prof. Lydiah Kiramba · Expected completion: May 2027
+          </div>
+        </div>
+
+        <div class="instrument">
+          <div class="instrument-name">Communicative Language Teaching (CLT) Policy Enactment in Multilingual Senegalese Secondary Schools: An Integrated Multi-Level Qualitative Study</div>
+          <div class="instrument-desc">
+            Université Cheikh Anta Diop de Dakar · English and African Linguistics and Grammar (LiGAA)<br>
+            Advisor: Prof. Mbacké Diagne · Expected completion: December 2026
+          </div>
+        </div>
+      </section>
+
+      <!-- Frameworks & Instruments -->
+      <section aria-labelledby="instruments-h2">
+        <h2 id="instruments-h2">Frameworks &amp; Instruments</h2>
+
+        <div class="instrument">
+          <div class="instrument-name">
+            Translanguaging Classroom Experience Scale (TCES)
+            <span class="instrument-status">Instrument under development</span>
+          </div>
+          <div class="instrument-desc">
+            A 24-item, six-domain scale measuring Senegalese secondary students' experiences of translanguaging pedagogy. Theoretically anchored in Ubuntu Translanguaging Theory, Sociocultural Theory, Community Cultural Wealth, Decolonial Theory, and Critical Language Awareness. The 41-page instrument manual outlines nine validation phases. The TCES has not yet been validated.
+          </div>
+        </div>
+
+        <div class="instrument">
+          <div class="instrument-name">Integrated Multi-Level Qualitative Analytical Framework (IMQAF)</div>
+          <div class="instrument-desc">
+            Developed for the UCAD dissertation. Combines macro (national policy), meso (institutional mediation), and micro (classroom enactment) levels to trace how CLT policy is interpreted and enacted across Senegalese secondary schools. Situated within the macro–meso–micro tradition of language policy research (Kaplan &amp; Baldauf, 2003; Spolsky, 2009).
+          </div>
+        </div>
+      </section>
+
+      <!-- Critical AI Literacy -->
+      <section aria-labelledby="ai-h2" id="ai">
+        <h2 id="ai-h2">Critical AI Literacy</h2>
+        <p class="section-note">A developing research direction — documented activities only. No claim of established AI expertise, funded project, or technical programming skills.</p>
+        <p>Critical AI literacy extends my work on multilingual and decolonial pedagogies to questions of generative AI in education. It draws on the same analytical questions I bring to language-in-education policy: who determines what counts as knowledge, in whose language, and through whose tools. The four activities below represent the documented scope of this work to date.</p>
+        <p>See also: <a href="publications.html#ai">AI-related manuscripts on the Publications page</a> and <a href="teaching.html#ai">AI-related teaching on the Teaching page</a>.</p>
+
+        <div class="activity-entry">
+          <div class="activity-type">Teaching</div>
+          <div class="activity-title">Instructor of English for Technology (AI)</div>
+          <div class="activity-sub">Dakar Institute of Technology (DIT)</div>
+          <div class="activity-meta"><span class="chip chip-forthcoming">Ongoing</span><span class="pub-date">2021–Present</span></div>
+        </div>
+
+        <div class="activity-entry">
+          <div class="activity-type">Manuscript</div>
+          <div class="activity-title">Culturally Sustaining Literacy in the Age of Gen-AI: Emerging Critical AI Literacy in Multilingual Children</div>
+          <div class="activity-sub">Kiramba, L. K., Banks Noon, M., Aiyeola, A., &amp; Faye, N. · <em>Journal of Literacy Research</em></div>
+          <div class="activity-meta"><span class="chip chip-submitted">Submitted</span><span class="pub-date">July 2026</span></div>
+        </div>
+
+        <div class="activity-entry">
+          <div class="activity-type">Conference Presentation</div>
+          <div class="activity-title">Developing Critical AI Literacy Through Culturally Sustaining Pedagogy</div>
+          <div class="activity-sub">Faye, N., Banks Noon, M., Kiramba, L. K., &amp; Aiyeola, A. · MIDTESOL Annual Conference, Johnson County Community College, Overland Park, Kansas</div>
+          <div class="activity-meta"><span class="chip chip-presented">Presented</span><span class="pub-date">October 2026</span></div>
+        </div>
+
+        <div class="activity-entry">
+          <div class="activity-type">Conference Proposal</div>
+          <div class="activity-title">Culturally Sustaining Literacy in the Age of Gen-AI: Emerging Critical AI Literacy in Multilingual Children</div>
+          <div class="activity-sub">Kiramba, L. K., Banks Noon, M., Aiyeola, A., &amp; Faye, N. · National Council of Teachers of English Assembly for Research (NCTEAR 2027)</div>
+          <div class="activity-meta"><span class="chip chip-proposal">Proposal submitted</span></div>
+        </div>
+      </section>
+
+      <!-- Methods -->
+      <section aria-labelledby="methods-h2">
+        <h2 id="methods-h2">Methods</h2>
+        <p>Qualitative research (critical ethnography, case study, narrative inquiry); mixed methods; critical discourse analysis; multimodal discourse analysis. Graduate coursework in statistical methods (EDPS 859, UNL, Spring 2025).</p>
+      </section>
+
+    </div>
+  </main>
+
+  <footer class="site-footer" style="max-width:820px;margin:0 auto;padding-left:max(1.5rem, env(safe-area-inset-left,0px));padding-right:max(1.5rem, env(safe-area-inset-right,0px))">
+    <span>© 2026 Ndrao Faye · Last updated November 2026</span>
+    <div class="footer-links">
+      <a href="mailto:nfaye2@huskers.unl.edu">Email</a>
+      <a href="https://orcid.org/0009-0002-1314-7418" target="_blank" rel="noopener">ORCID</a>
+      <a href="cv.html">CV</a>
+    </div>
+  </footer>
+
+  <script>
+    const btn = document.getElementById('themeBtn');
+    const root = document.documentElement;
+    const stored = (() => { try { return localStorage.getItem('theme'); } catch(e) { return null; } })();
+    if (stored) { root.dataset.theme = stored; btn.textContent = stored === 'dark' ? 'Light' : 'Dark'; }
+    btn.addEventListener('click', () => {
+      const next = root.dataset.theme === 'dark' ? 'light' : 'dark';
+      root.dataset.theme = next;
+      btn.textContent = next === 'dark' ? 'Light' : 'Dark';
+      try { localStorage.setItem('theme', next); } catch(e) {}
+    });
+  </script>
+</body>
+</html>
