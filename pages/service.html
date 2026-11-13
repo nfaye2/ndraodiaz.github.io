@@ -7,6 +7,22 @@
   <meta name="description" content="Professional service, leadership, languages, and memberships — Ndrao Faye.">
   <meta property="og:title" content="Service — Ndrao Faye">
   <link rel="stylesheet" href="../css/style.css">
+  <style>
+    /* Service — Terracotta */
+    :root {
+      --accent:   #8B3A1A;
+      --accent2:  #1A5276;
+      --hero-bg:  #3D1A0A;
+      --hero-fg:  #FDF0EA;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]) { --accent: #D4724A; --accent2: #7BAFD4; }
+    }
+    :root[data-theme="dark"] { --accent: #D4724A; --accent2: #7BAFD4; }
+    .nav-link:hover, .nav-link[aria-current="page"] { background: rgba(139,58,26,.10); }
+    .nav-link[aria-current="page"] { color: var(--accent); }
+    .lang-item { border-top-color: var(--accent); }
+  </style>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to main content</a>
@@ -29,7 +45,9 @@
 
   <main id="main">
     <div class="site-wrap">
-      <h1 class="page-title">Service &amp; Leadership</h1>
+      <div class="page-hero">
+        <h1 class="page-title">Service &amp; Leadership</h1>
+      </div>
 
       <!-- Professional Service -->
       <section aria-labelledby="profsvc-h2">
